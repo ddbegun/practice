@@ -4,7 +4,7 @@ if [[ $foo != cat && $foo != dog ]]; then
 echo "Hello"
 fi
 if [[ $foo = cat ]]; then
-	echo "meow"
+	echo "cat cat cat"
 fi
 if [[ $foo = dog ]]; then
 	echo "wiff"
